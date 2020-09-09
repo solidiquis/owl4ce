@@ -3,20 +3,17 @@
 ---
 
 <p align="center">
-    <a target="_blank" href="https://facebook.com/itsmeowl4ce/" target="_blank">
-        <img alt="Facebook" src="https://img.shields.io/badge/Facebook-46a2f1.svg?&style=flat-square&logo=facebook&logoColor=white" />
-    </a>
-    <a target="_blank" href="https://instagram.com/owl4ce/" target="_blank">
-        <img alt="Instagram" src="https://img.shields.io/badge/Instagram-46a2f1.svg?&style=flat-square&logo=Instagram&logoColor=white" />
-    </a>
-</p>
-
-<p align="center">
     <a href="https://github.com/owl4ce" target="_blank">
         <img alt="owl4ce" src="https://badges.pufler.dev/visits/owl4ce/owl4ce?logo=GitHub&label=Visits&color=success&logoColor=white&style=flat-square"/>
     </a>
     <a href="https://github.com/owl4ce/owl4ce" target="_blank">
         <img alt="GitHub hits" src="https://img.shields.io/github/last-commit/owl4ce/owl4ce?label=Updated&style=flat-square">
+    </a>
+    <a target="_blank" href="https://facebook.com/itsmeowl4ce/" target="_blank">
+        <img alt="Facebook" src="https://img.shields.io/badge/Facebook-46a2f1.svg?&style=flat-square&logo=facebook&logoColor=white" />
+    </a>
+    <a target="_blank" href="https://instagram.com/owl4ce/" target="_blank">
+        <img alt="Instagram" src="https://img.shields.io/badge/Instagram-46a2f1.svg?&style=flat-square&logo=Instagram&logoColor=white" />
     </a>
 </p>
 
