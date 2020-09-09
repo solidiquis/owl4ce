@@ -12,14 +12,11 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/owl4ce?tab=followers" target="_blank">
-        <img alt="Followers" src="https://img.shields.io/badge/--555555?style=flat-square&logo=RSS&logoColor=white">
-    </a>
     <a href="https://github.com/owl4ce" target="_blank">
-        <img alt="owl4ce" src="https://badges.pufler.dev/visits/owl4ce/owl4ce?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/>
+        <img alt="owl4ce" src="https://badges.pufler.dev/visits/owl4ce/owl4ce?logo=GitHub&label=Visits&color=success&logoColor=white&style=flat-square"/>
     </a>
     <a href="https://github.com/owl4ce/owl4ce" target="_blank">
-        <img alt="GitHub hits" src="https://img.shields.io/github/last-commit/owl4ce/owl4ce?label=profile%20updated&style=flat-square">
+        <img alt="GitHub hits" src="https://img.shields.io/github/last-commit/owl4ce/owl4ce?label=Updated&style=flat-square">
     </a>
 </p>
 
