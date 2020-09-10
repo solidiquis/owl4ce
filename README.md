@@ -7,16 +7,16 @@
 ---
 
 <p align="center">
-    <a href="https://github.com/owl4ce">
+    <a href="https://github.com/owl4ce" target="_blank">
         <img alt="GitHub Visitor" src="https://badges.pufler.dev/visits/owl4ce/owl4ce?style=flat-square&label=Visits&color=success&logo=GitHub&logoColor=white"/>
     </a>
-    <a href="https://github.com/owl4ce/owl4ce">
+    <a href="https://github.com/owl4ce/owl4ce" target="_blank">
         <img alt="GitHub Hits" src="https://img.shields.io/github/last-commit/owl4ce/owl4ce?style=flat-square&label=Updated"/>
     </a>
-    <a href="https://facebook.com/itsmeowl4ce/">
+    <a href="https://facebook.com/itsmeowl4ce/" target="_blank">
         <img alt="Facebook" src="https://img.shields.io/badge/Facebook-46a2f1.svg?&style=flat-square&logo=facebook&logoColor=white"/>
     </a>
-    <a href="https://instagram.com/owl4ce/">
+    <a href="https://instagram.com/owl4ce/" target="_blank">
         <img alt="Instagram" src="https://img.shields.io/badge/Instagram-46a2f1.svg?&style=flat-square&logo=Instagram&logoColor=white"/>
     </a>
 </p>
