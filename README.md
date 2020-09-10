@@ -1,5 +1,5 @@
 <p align="center">
-<a name="top" href="https://github.com/owl4ce">
+<a href="https://github.com/owl4ce">
     <img width="100%" src="https://github.com/owl4ce/owl4ce/blob/master/assets/night.gif">
 </a>
 </p>
@@ -23,16 +23,15 @@
 
 <p align="center">
 <a href="https://github.com/owl4ce">
-    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=owl4ce&show_icons=true&hide_border=true&icon_color=cf8ef4&title_color=63c5ea&text_color=fa74b2"/>
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=owl4ce&show_icons=true&hide_border=true&icon_color=cf8ef4&title_color=63c5ea&text_color=fa74b2"/>
 </a>
 </p>
-
 
 <details>
 <summary></summary>
     <p align="center">
     <a href="https://github.com/owl4ce">
-        <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=owl4ce&hide=html,&hide_border=true&title_color=63c5ea&text_color=fa74b2"/>
+        <img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=owl4ce&hide=html,&hide_border=true&title_color=63c5ea&text_color=fa74b2"/>
     </a>
     </p>
 </details>
